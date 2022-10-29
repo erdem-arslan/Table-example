@@ -1,5 +1,14 @@
-# 5-year exchange rate table
+# Table Example
 
-ı am use only html and css 
+Table Example
 
-demo: https://erdemarslan.net/examples/exchange-rate-table/
+## Live Demo
+
+[Live Demo] https://erdemarslan.net/sample-projects/table-example
+
+
+## Used Technologies 
+
++ HTML
++ CSS
+
